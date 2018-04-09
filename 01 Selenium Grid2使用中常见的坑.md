@@ -3,8 +3,12 @@ title: 01 Selenium Grid2使用中常见的坑
 tags: 新建,模板,小书匠
 grammar_cjkRuby: true
 ---
+# <font id="1" size='6' face='黑体'><font color='red'>**目录**</font></br>
 
-# <font size='6' face='黑体'><font color='red'>**1.**</font> 做分布式自动化测试时远程机报错</font>
+<a href="#1"><font size="4" face="楷体">1. 运行脚本过程中报：call function result</font></a>
+
+
+# <font id="1" size='6' face='黑体'><font color='red'>**1.**</font> 做分布式自动化测试时远程机报错</font>
 
 ```python
 selenium.common.exceptions.WebDriverException: Message: unknown error: call function result missing 'value'
