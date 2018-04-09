@@ -8,7 +8,10 @@ grammar_cjkRuby: true
 &nbsp;&nbsp;<a href="#1"><font size="4" face="宋体">1. 运行脚本过程中报：call function result</font></a>
 
 # 01 Selenium Grid2使用中常见的坑
-<font id="1" size='6' face='黑体'><font color='red'>**1.1**</font> 做分布式自动化测试时远程机报错</font></br>
+<font id="1" size='6' face='黑体'>
+<font color='red'>**1.1**</font> 
+做分布式自动化测试时远程机报错
+</font></br>
 
 ```python
 selenium.common.exceptions.WebDriverException: Message: unknown error: call function result missing 'value'
