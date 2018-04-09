@@ -9,7 +9,7 @@ grammar_cjkRuby: true
 
 # 01 Selenium Grid2使用中常见的坑
 <font id="1" size='6' face='黑体'>
-<font color='red'>**1.1**</font> 
+<font color='red'>1.1</font> 
 做分布式自动化测试时远程机报错
 </font></br>
 
